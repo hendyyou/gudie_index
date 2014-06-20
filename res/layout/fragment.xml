@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/fragment_fresh"
+     >
+         <!-- 最上部为“最近更新” -->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#EEEED1"
+        android:gravity="center"
+        android:text="次页"
+        android:textSize="25sp" />
+
+</LinearLayout>
